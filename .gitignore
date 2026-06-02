@@ -1,0 +1,17 @@
+data/
+*.csv
+*.tsv
+*.json.gz
+checkpoints/
+*.pth
+*.pt
+*.onnx
+*.h5
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db
